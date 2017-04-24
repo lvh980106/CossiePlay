@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CossiePlay</title>
+<!-- TemplateEndEditable -->
+<link href="../css/mastercss.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="header">
+ <h1>
+ <a href="../index.html">&#8226;CossiePlay&#8226;</a>
+ </h1>
+ <p>since 2012</p>
+</div>
+
+<ul>
+  <li><a href="../index.html">Home</a></li>
+  <li class="aboutus">
+  <a href="#">About Us</a>
+  <div class="aboutus-content">
+  	<a href="../whatiscosplay.html">What's Cosplay?</a>
+  	<a href="../aboutcsp.html">About CossiePlay</a>
+  </div>
+  <li>
+  <a href="../announcement.html">Announcement</a></li>
+  <li>
+  <a href="../2ndhanditem.html">Second Hand items</a></li>
+  </li>
+</ul>
+<!-- TemplateBeginEditable name="Edit Here" -->
+
+Edit Here
+
+<h3>Welcome To CossiePlay</h3>
+<!-- TemplateEndEditable -->
+
+
+<div id="footer">
+<ul>
+	<p>Contact</p>
+<li>
+  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: 07-4771 1234 &nbsp;Fax: 07-4771 1235&nbsp;Address: 4 Stanton Avenue, Hulkstwon &nbsp;Email: cossieplay@ gmail.com.</p>
+</li>
+</ul>
+</div>
+</body>
+</html>
